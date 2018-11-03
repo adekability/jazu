@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin panel"
+AuthUserFile C:/xampp/htdocs/jazu/admin/.htpasswd
+Require valid-user

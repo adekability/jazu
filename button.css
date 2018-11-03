@@ -1,0 +1,441 @@
+.but {
+	  display: inline-block;
+  padding: 10px 70px;
+  margin-top: -5%;
+  margin-right: -30%;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #999;
+  font-color: white;
+}
+.but:hover {
+	background-color: #9558C7;
+}
+.but:active {
+	background-color: #9558C7;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+
+.nazadbut {
+	  display: inline-block;
+  padding: 5px 5px;
+  margin-top:0%;
+  margin-right:-1280px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #9558C7;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px #999;
+}
+.nazadbut:hover {
+	background-color: #3E8E41;
+}
+.nazadbut:active {
+	background-color: #3E8E41;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+.button:hover {
+	background-color:black;
+	font-color: #ffffff;
+}
+.button:active {
+	font-color: #ffffff;
+	background-color: black;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+.q{
+	background-color:black;
+	border: 2px solid #663300;
+	color: white;
+	padding: 20px 20px;
+	margin: -5px 400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.w{
+	background-color:black;
+	border: 2px solid #cc9900;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+.e{
+	background-color:black;
+	border: 2px solid #ffff00;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.r{
+	background-color:black;
+	border: 2px solid #99ff33;
+	color: white;
+	padding: 20px 21px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.t{
+	background-color:black;
+	border: 2px solid #00ccff;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px 400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.y{
+	background-color:black;
+	border: 2px solid #9933ff;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.u{
+	background-color:black;
+	border: 2px solid #ff33cc;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.i{
+	background-color:black;
+	border: 2px solid #ff0000;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.o{
+	background-color:black;
+	border: 2px solid #000000;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.p{
+	background-color:black;
+	border: 2px solid #cccccc;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+.a{
+	background-color:black;
+	border: 2px solid #cccccc;
+	color: white;
+	padding: 20px 20px;
+	margin:0px 425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.s{
+	background-color:black;
+	border: 2px solid #000000;
+	color: white;
+	padding: 20px 20px;
+	margin: 20px -425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.d{
+	background-color:black;
+	border: 2px solid #336600;
+	color: white;
+	padding: 20px 20px;
+	margin: 50px 425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.f{
+	background-color:black;
+	border: 2px solid #ccccff;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px -425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.g{
+	background-color:black;
+	border: 2px solid #996633;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.h{
+	background-color:black;
+	border: 2px solid #660033;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.j{
+	background-color:black;
+	border: 2px solid #3366cc;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px 425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.k{
+	background-color:black;
+	border: 2px solid #660066;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.l{
+	background-color:black;
+	border: 2px solid #ffff00;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 425px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.z{
+	background-color:black;
+	border: 2px solid #666633;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.x{
+	background-color:black;
+	border: 2px solid #cc0066;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.c{
+	background-color:black;
+	border: 2px solid #ffcccc;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.v{
+	background-color:black;
+	border: 2px solid #ffffcc;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.b{
+	background-color:black;
+	border: 2px solid #ccccff;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.n{
+	background-color:black;
+	border: 2px solid ff99ff;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.m{
+	background-color:black;
+	border: 2px solid #99ff99;
+	color: white;
+	padding: 20px 20px;
+	margin: 10px 470px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}

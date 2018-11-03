@@ -1,0 +1,280 @@
+.buttontop:hover {
+	background-color:black;
+	font-color: #ffffff;
+}
+.buttontop:active {
+	font-color: #ffffff;
+	background-color: black;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+.q{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 67px 373px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.w{
+	background-color:black;
+	border: 2px solid yellow;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -376px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+.e{
+	background-color:black;
+	border: 2px solid orange;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 375px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.r{
+	background-color:black;
+	border: 2px solid pink;
+	color: white;
+	padding: 20px 21px;
+	margin: 0px -377px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.t{
+	background-color:black;
+	border: 2px solid red;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px 377px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.y{
+	background-color:black;
+	border: 2px solid purple;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -378px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.u{
+	background-color:black;
+	border: 2px solid blue;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 377px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.i{
+	background-color:black;
+	border: 2px solid brown;
+	color: white;
+	padding: 20px 22px;
+	margin: 0px -379px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.o{
+	background-color:black;
+	border: 2px solid black;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px 377px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.p{
+	background-color:black;
+	border: 2px solid grey;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -377px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+/*
+.B{
+	background-color:black;
+	border: 2px solid yellow;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -5px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+.C{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.L{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+.M{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+.N{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+.V{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+
+.X{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}
+
+
+
+
+.Z{
+	background-color:black;
+	border: 2px solid white;
+	color: white;
+	padding: 20px 20px;
+	margin: 0px -400px;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius:10px;
+	cursor: pointer;
+}*/

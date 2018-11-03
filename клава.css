@@ -1,0 +1,7 @@
+body{
+	background-image: url("клавиатура.jpg");
+	background-repeat: no-repeat;
+	/*background-color: #ABACB0;*/
+	background-position: 290px 330px;
+	background-size: 850px 250px;
+}

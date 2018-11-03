@@ -1,0 +1,55 @@
+body
+{
+	/*background-image:url("regback.jpg");
+	background-size:1380px 720px;
+	background-repeat: no-repeat;
+	background-position:center top;
+	padding: 0px;
+	margin: 0px;*/
+	
+	background-image:url("forregbag.jpg");
+	background-size:1380px 700px;
+	background-repeat: no-repeat;
+	background-position:left left center top ;
+	padding: 0px;
+	margin: 0px;
+}
+.header{
+	background-color: #DDDAC6;/*#C9C3A3*/
+	color: #45BA9D;/*#8000ff;*/
+	text-align: center;
+	top: 0px;
+	width: 100%;
+	padding: 5px;
+}
+h0{
+	
+}
+form{
+	width:23%;
+	padding: 30px;
+	border: 1px solid #cbcbcb;
+	margin: 5px auto;
+}
+.textInput{
+	margin-top:2px;
+	height:28px;
+	border:1px solid: #5E6E66;
+	font-size: 16px;
+	padding: 1px;
+	width: 150%;
+	text-align: center;
+}
+#error_msg{
+	width: 50%;
+	margin: 5px auto;
+	height: 30px;
+	border: 1px solid #FF0000;
+	background: #FFB9B8;
+	color: #FF0000;
+	text-align: center;
+	padding-top: 10px;
+}
+td{
+	text-align:right;
+}
